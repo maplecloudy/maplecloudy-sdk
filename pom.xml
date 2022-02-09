@@ -21,7 +21,7 @@
 		<!-- Set default encoding to UTF-8 to remove maven complaints -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<hadoop2.version>2.6.0-cdh5.15.0</hadoop2.version>
+		<hadoop2.version>2.10.1</hadoop2.version>
 		<!-- defaults for flaky test and focused test exclusions -->
 		<test.exclude.pattern>$</test.exclude.pattern>		<!-- junk pattern -->
 		<test.include.pattern>**/Test*.java</test.include.pattern>
